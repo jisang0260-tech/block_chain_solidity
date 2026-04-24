@@ -1,8 +1,7 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-export default buildModule("PHashRegistryModule", (m) => {
-  
-  const authenticator = m.contract("PHashRegistry");
+export default buildModule("ImageAuthenticatorModule", (m) => {
+  const imageAuthenticator = m.contract("ImageAuthenticator");
 
-  return { authenticator };
+  return { imageAuthenticator };
 });
