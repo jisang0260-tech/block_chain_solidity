@@ -161,3 +161,11 @@ phash 기준 이미지의 현재 판매 가격을 반환합니다.
 
 0x6154ab54f64106e00C715EBfC7cE6ce8C5dfF9CB
 
+
+##ABI 경로
+
+ignition/deployments/image-authenticator-20260423/artifacts/ImageAuthenticatorModule#ImageAuthenticator.json 
+
+JSON 다운로드 이후에 abi 추출해서 사용하시면 됩니다.
+
+
