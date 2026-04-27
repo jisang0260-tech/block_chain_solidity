@@ -157,15 +157,15 @@ phash 기준 이미지의 현재 판매 가격을 반환합니다.
 - `OwnerCannotPurchaseOwnImage`: 소유자가 자기 이미지를 구매하려는 경우
 - `PaymentTransferFailed`: 판매자에게 ETH 송금이 실패한 경우
 
-##배포된 컨트랙트 주소
+## 배포된 컨트랙트 주소
 
 0x6154ab54f64106e00C715EBfC7cE6ce8C5dfF9CB
 
 
-##ABI 경로
+## ABI 경로
 
 ignition/deployments/image-authenticator-20260423/artifacts/ImageAuthenticatorModule#ImageAuthenticator.json 
 
 JSON 다운로드 이후에 abi 추출해서 사용하시면 됩니다.
 
-
+백엔드 기준 ether.js flutter 기준 web3dart   
